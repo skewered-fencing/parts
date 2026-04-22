@@ -10,3 +10,6 @@ up.
 **color-bar.stl** is typically printed entirely in a single color and attached
 to the bottom of a scoring box for scoring boxes that will be permanently
 wall-mounted to identity the color of the box and remote.
+
+**color-bar-tripod.stl** is a version of the color bar that allows a heat-set
+insert of 1/4"x20 t-nuts to allow the scoring box to be mounted on a tripod.
